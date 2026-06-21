@@ -2,3 +2,6 @@ node_modules
 .env
 .DS_Store
 dist
+backend/database/technow_mobile.db
+backend/database/init-mysql.js
+backend/test-mysql-connection.js
